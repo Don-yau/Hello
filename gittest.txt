@@ -1,2 +1,3 @@
 first version have just one line.
 second version have 2 lines¡£
+after rm£¬ and checkout.
